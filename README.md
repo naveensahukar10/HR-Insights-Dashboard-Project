@@ -1,4 +1,5 @@
-📊 HR Analytics Dashboard
+📊 Project Title: HR Analytics Dashboard
+
 📌 Project Overview: The HR Analytics Dashboard is an Excel-based Business Intelligence solution designed to analyze employee
                      workforce data and identify key factors influencing employee attrition. The dashboard provides actionable 
                      insights into workforce demographics, department-wise turnover, job satisfaction, and employee retention trends.
@@ -56,10 +57,6 @@ Developed an interactive Excel Dashboard that:
 - Data Visualization
 - Business Intelligence Reporting
 
-📷 Dashboard Screenshot
-<img width="991" height="625" alt="HR Project Screenshot" src="https://github.com/user-attachments/assets/7ea7bade-007d-47dd-b1d2-c6af2978bba2" />
-
-
 📊 Key Insights:
 - Total Employees - 1,470
 - Active Employees - 1,233
@@ -87,5 +84,7 @@ Recommendations
 ✅ Identify attrition drivers
 ✅ Improve employee retention strategies
 ✅ Support data-driven HR decision-making
-
 ✅ Reduce manual reporting efforts
+
+📷 Dashboard Screenshot
+<img width="991" height="625" alt="HR Project Screenshot" src="https://github.com/user-attachments/assets/7ea7bade-007d-47dd-b1d2-c6af2978bba2" />
